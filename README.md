@@ -1,1 +1,3 @@
 # checker
+
+Sadece müsteriler icin
