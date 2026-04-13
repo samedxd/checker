@@ -1,3 +1,3 @@
 # checker
 
-Sadece müsteriler icin
+Müsteri download/update
