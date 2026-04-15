@@ -1,3 +1,3 @@
 # checker
 
-Müsteri download/update
+download/update
